@@ -1,16 +1,7 @@
-# moedas
+Projeto de Estágio em Mobile com o objetivo era criar uma ferramenta capaz de consultar a API pública de moedas, fornecendo taxas de câmbio atualizadas e permitindo aos usuários converter entre diferentes moedas.
 
-A new Flutter project.
+Nesse projeto utilizei o package HTTP para realizar a fazer a integração com a API e o ValueNotifier gerenciar o estado da aplicação.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/Murilo-Furlaneto/Teste_Estagio/assets/64844221/a5631916-b42d-4e66-ba99-59eaa40b4d4d
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
